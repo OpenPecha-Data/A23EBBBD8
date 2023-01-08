@@ -1,0 +1,28 @@
+id: A23EBBBD8
+title: Raising the Windhorse
+type: translation
+pechas:
+- IADD81892
+- I4D40AC74
+- I322F2DFF
+- I707DC261
+- I3936A996
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:45:26.915847
+  last_modified_at: 2023-01-04 12:45:26.915868
+  collections:
+  - Kachöpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IADD81892/EE27: 6E89
+  I4D40AC74/F7B1: 6E89
+  I322F2DFF/FBBB: 6E89
+  I707DC261/93F6: 6E89
+  I3936A996/658D: 6E89
